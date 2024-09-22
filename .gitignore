@@ -1,2 +1,3 @@
 # ignore the directory 00_apps
 00_apps/
+.Rproj.user
