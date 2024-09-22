@@ -1,0 +1,7 @@
+{
+    "installOptions": {
+        "installFromRepository": true,
+        "libraryPath": "C:/Users/aammar/AppData/Local/R/win-library/4.4",
+        "installDependencies": true
+    }
+}
