@@ -1,0 +1,32 @@
+---
+title: "Skewness and Kurtosis for a Normal Distribution"
+author: "Dr. Aammar Tufail"
+date: "26.09.2024"
+output: html_document
+---
+
+## Skewness and Kurtosis in a Normal Distribution
+
+In a normally distributed sample, the **skewness** and **kurtosis** are expected to have specific values.
+
+### Skewness
+Skewness measures the asymmetry of the distribution. For a normal distribution:
+
+- **Skewness** should be approximately **0**.
+  
+  This indicates that the data is symmetric with no skewness (neither to the left nor to the right).
+
+### Kurtosis
+Kurtosis measures the "tailedness" of the distribution. For a normal distribution:
+
+- **Kurtosis** should be approximately **3**.
+  
+  Sometimes, **excess kurtosis** is used, which is the kurtosis value minus 3. In this case, for a normal distribution, the excess kurtosis is **0**.
+
+### Summary
+For a normally distributed sample:
+
+- **Skewness** ≈ 0
+- **Kurtosis** ≈ 3 (or excess kurtosis ≈ 0)
+  
+These values are expected for a perfectly normal distribution, though slight deviations can occur in real-world data.
